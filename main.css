@@ -27,8 +27,8 @@ h2, h3, h4, h5, h6 {
   text-decoration: underline;
 }
 
-.red {
-  color: red !important;
+#red {
+  color: #cc0000 !important;
 }
 
 /*nav*/
